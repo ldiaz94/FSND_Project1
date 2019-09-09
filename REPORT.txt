@@ -1,0 +1,29 @@
+BEGINNING OF REPORT
+
+Date and Time: Monday 09 of September, 2019 - 21:25:41
+
+========================
+
+Here are the most popular articles:
+
+"Candidate is jerk, alleges rival" - 338647 views
+"Bears love berries, alleges bear" - 253801 views
+"Bad things gone, say good people" - 170098 views
+
+========================
+
+Here is how the authors stand:
+
+Ursula La Multa - 507594 views
+Rudolf von Treppenwitz - 423457 views
+Anonymous Contributor - 170098 views
+Markoff Chaney - 84557 views
+
+========================
+
+Here are the dates in which more than 1% of requests were bad:
+
+July, 17 2016 - 2.26% errors
+
+END OF REPORT
+========================
